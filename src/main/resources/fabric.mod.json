@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "privateseed",
+	"version": "${version}",
+	"name": "Private Seed",
+	"description": "Make /seed only for operators",
+	"authors": [
+		"asablock"
+	],
+	"contact": {
+	},
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"io.github.asablock.privateseed.UselessEntrypoint"
+		]
+	},
+	"mixins": [
+		"privateseed.mixins.json"
+	],
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": "*",
+		"java": "*"
+	},
+	"suggests": {
+	}
+}
