@@ -8,6 +8,8 @@
 		"asablock"
 	],
 	"contact": {
+		"sources": "https://github.com/asablock/privateseed",
+		"issues": "https://github.com/asablock/privateseed/issues"
 	},
 	"license": "CC0-1.0",
 	"environment": "*",
