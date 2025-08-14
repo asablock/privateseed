@@ -12,6 +12,7 @@
 		"issues": "https://github.com/asablock/privateseed/issues"
 	},
 	"license": "CC0-1.0",
+	"icon": "icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
